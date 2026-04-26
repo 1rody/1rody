@@ -1,16 +1,18 @@
-## Hi there 👋
 
-<!--
-**1rody/1rody** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img width="1953" height="889" alt="A WEB OF IDEAS - BRAND" src="https://github.com/user-attachments/assets/c875cc19-a72b-4353-8e01-c6670cef5dc1" />
 
-Here are some ideas to get you started:
+<h1>Hello there </h1>h1>
+<h1>I'm Rodolfo Falcão, — Rody </h1>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>
+I'm a Web Developer focused on Front-End development, UI/UX design, and building high-quality digital interfaces.
+Currently studying at Rocketseat and Origamid and coursing software engenieering on UCSAL, with experience in Figma, Tailwind CSS, and TypeScript.
+</p>
+<div>
+
+</div>
+<p>
+<\>
+</p>
+<br><br>
+<p>More on my personal void: https://rody.city</p>
