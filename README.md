@@ -6,8 +6,7 @@ I'm a Web Developer focused on <strong>Front-End</strong> development, <strong>U
 Currently studying at Rocketseat and Origamid and coursing software engenieering on <strong>UCSAL</strong>, with experience in <strong>Figma</strong>, <strong>Tailwind CSS</strong>, and <strong>TypeScript</strong>.
 </p>
 
-<img width="1953" height="889" alt="A WEB OF IDEAS - BRAND" src="https://github.com/user-attachments/assets/c875cc19-a72b-4353-8e01-c6670cef5dc1" />
-
+<img width="1953" height="889" alt="A WEB OF IDEAS - BANNER" src="https://github.com/user-attachments/assets/1b7dfd63-be3c-43e9-8713-c71fde60b71a" />
 ---
-<br><br>
-<p>More on my personal void: https://rody.city</p>
+<br>
+<p>More of me in: https://rody.city</p>
