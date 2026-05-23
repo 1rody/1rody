@@ -1,7 +1,13 @@
 <div>
   <h1>Hello, im Rody!</h1>
 </div>
-
+<table>
+    <td><img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"></td>
+    <td><img src="https://img.shields.io/badge/tailwindcss-%2320232a.svg?style=for-the-badge&logo=tailwind-css&logoColor=%2338B2AC"></td>
+    <td><img src="https://img.shields.io/badge/javascript-%2320232a.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"></td>
+    <td><img src="https://img.shields.io/badge/html5-%2320232a.svg?style=for-the-badge&logo=html5&logoColor=%23E34F26"></td>
+    <td><img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"></td>
+</table>
 <br>
 <img width="1257" height="279" alt="image" src="https://github.com/user-attachments/assets/78eb19dc-d693-4680-b397-638f366fe0a8" />
 
@@ -15,13 +21,6 @@ i'm a Web Developer focused on <strong>Front-End</strong> development, <strong>U
 Currently studying at Rocketseat and Origamid and coursing software engenieering on <strong>UCSAL</strong>, with experience in <strong>Figma</strong>, <strong>Tailwind CSS</strong>, and <strong>TypeScript</strong>.
 </p>
 
-<table>
-    <td><img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"></td>
-    <td><img src="https://img.shields.io/badge/tailwindcss-%2320232a.svg?style=for-the-badge&logo=tailwind-css&logoColor=%2338B2AC"></td>
-    <td><img src="https://img.shields.io/badge/javascript-%2320232a.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"></td>
-    <td><img src="https://img.shields.io/badge/html5-%2320232a.svg?style=for-the-badge&logo=html5&logoColor=%23E34F26"></td>
-    <td><img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"></td>
-</table>
 
 <br>
 <div style="text-align: center;">
