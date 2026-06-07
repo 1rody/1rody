@@ -13,8 +13,7 @@
 
 
 <p class="w-full items-center flex justify-center>
-  <a href="#"><img src="https://img.shields.io/badge/Steam-0d1117?style=for-the-badge&logo=steam&logoColor=white" /></a><a href="#"><img src="https://img.shields.io/badge/Telegram-0d1117?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-  <a href="https://github.com/1rody"><img src="https://img.shields.io/badge/Github-0d1117?style=for-the-badge&logo=github&logoColor=white" /></a><a href="#"><img src="https://img.shields.io/badge/Discord-0d1117?style=for-the-badge&logo=discord&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Steam-0d1117?style=for-the-badge&logo=steam&logoColor=white" /></a><a href="#"><img src="https://img.shields.io/badge/Telegram-0d1117?style=for-the-badge&logo=telegram&logoColor=white" /></a><a href="#"><img src="https://img.shields.io/badge/Discord-0d1117?style=for-the-badge&logo=discord&logoColor=white" /></a>
 </p>
 <p>
 i'm a Web Developer focused on <strong>Front-End</strong> development, <strong>UI/UX</strong> design, and building high-quality digital interfaces. <br/>
