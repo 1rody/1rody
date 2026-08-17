@@ -16,8 +16,12 @@ Currently studying at Rocketseat and Origamid and coursing software engenieering
 
 |---|---|---|---|---|
 
+
 ![](https://github-readme-stats.shion.dev/api?username=1rody&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
-![](https://streak-stats.demolab.com/?user=1rody&theme=dark&hide_border=true)
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=1rody&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
 
